@@ -1,0 +1,6 @@
+{
+  "name": "Pugh & Karpov Law, PC",
+  "description": "Virginia trial attorneys specializing in Civil Litigation, Personal Injury, Bankruptcy, and Criminal & Traffic Defense in Virginia Beach and Tidewater courts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
